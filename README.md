@@ -13,6 +13,26 @@ I am a Software Engineer specializing in high-performance web applications. I lo
 
 ---
 
+### 🏆 GitHub Performance
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME_HERE&theme=tokyonight&column=7&margin-w=15&no-bg=true" alt="Github Trophies" />
+</p>
+
+---
+
+### 📊 GitHub Activity & Stats
+<p align="center">
+  <img width="48%" src="https://streak-stats.demolab.com/?user=YOUR_USERNAME_HERE&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME_HERE&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
 ## 🛠 My Tech Stack
 
 ### 🌐 Frontend Development
@@ -31,36 +51,32 @@ I am a Software Engineer specializing in high-performance web applications. I lo
 </p>
 
 ---
+### 🌟 Featured Projects
+
+| Project Name | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **Project One** | A brief description of what this cool app does. | React, Node, Tailwind | [View Demo](#) |
+| **Project Two** | Another awesome project focusing on backend logic. | Python, Flask, JS | [View Demo](#) |
 
 ---
 
-## 📊 My GitHub Performance
+### 🔭 Currently Working On
+- 🔭 I’m currently working on **[Project Name]**
+- 🌱 I’m currently learning **Advanced System Design & GraphQL**
+- 💬 Ask me about **React, Node.js, or Flask**
+- 📫 How to reach me: **[your-email@example.com]**
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=REPLACE_WITH_YOUR_USERNAME&theme=tokyonight&no-bg=true" alt="Trophies" />
+---
+
+### 📬 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/[YOUR-LINKEDIN]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://twitter.com/[YOUR-TWITTER]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="mailto:your-email@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" height="30" width="30" /></a>
 </p>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=REPLACE_WITH_YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=REPLACE_WITH_YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=REPLACE_WITH_YOUR_USERNAME&theme=tokyonight&hide_border=true&area=true" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=REPLACE_WITH_YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
-## 📬 Let's Connect!
-
-<p align="center">
-<a href="[https://linkedin.com](https://www.linkedin.com/in/akash-kumar-5280032a2/)/in/[Akash Kumar]" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:[aaaakash2468@gmail.com]" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://twitter.com/[YourTwitter]" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[akashkumar3473]&label=Profile%20Views&color=0e75b6&style=flat-square" />
+---
+<p align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/> 
 </p>
