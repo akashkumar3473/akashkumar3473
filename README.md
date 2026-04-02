@@ -13,23 +13,7 @@ I am a Software Engineer specializing in high-performance web applications. I lo
 
 ---
 
-### 🏆 GitHub Performance
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME_HERE&theme=tokyonight&column=7&margin-w=15&no-bg=true" alt="Github Trophies" />
-</p>
 
----
-
-### 📊 GitHub Activity & Stats
-<p align="center">
-  <img width="48%" src="https://streak-stats.demolab.com/?user=YOUR_USERNAME_HERE&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME_HERE&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
