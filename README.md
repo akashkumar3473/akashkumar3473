@@ -1,7 +1,7 @@
 # Hi there! I'm [Akash Kumar] <img src="https://media.giphy.com/media/hvRJCLzPaCUEv/giphy.gif" width="30px">
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Full%20Stack%20Engineer&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Full%20Stack%20Developer&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
 
 ## 🚀 About Me
